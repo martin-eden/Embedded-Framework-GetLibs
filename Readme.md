@@ -16,7 +16,7 @@ other "libraries". Which are also repositories.
 Arduino CLI doesn't support this structure. Only if all my "libraries"
 were in global repository. Which is not gonna happen.
 
-(I'm spitting on `semver`. I laugh at people suffering submitting
+(I'm spitting on `semver`. I'm laughing at people suffering submitting
 "pull requests" when they want to update their library version.
 I'm sorry for them if they decide to rename or (oh God!) *remove*
 library because they want so.)
