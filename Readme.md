@@ -12,7 +12,7 @@ Install/remove repositories (to current dir. Git overhead but hey you can develo
   * [InstallRepos.sh](InstallRepos.sh)
   * [RemoveRepos.sh](RemoveRepos.sh)
 
-#### Why
+## Why
 
 Single repository model used by Arduino IDE (and inherited by
 `arduino-cli`) is awful.
@@ -35,7 +35,7 @@ other units like `[me_Uart]` and `[me_String]` in it's implementation.
 I have to include all those used units in installation/removal scripts.
 That sucks.
 
-#### How
+## How
 
 Here I'm providing scripts to install/remove *all* my units.
 
