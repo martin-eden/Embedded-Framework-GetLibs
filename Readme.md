@@ -5,12 +5,12 @@
 Framework tool. Install/remove all my libraries (or repositories).
 
 Install/remove libraries (to `libraries` dir in Arduino IDE. No overhead)
-  * [InstallLibs.sh][InstallLibs.sh]
-  * [RemoveLibs.sh][RemoveLibs.sh]
+  * [InstallLibs.sh](InstallLibs.sh)
+  * [RemoveLibs.sh](RemoveLibs.sh)
 
 Install/remove repositories (to current dir. Git overhead but hey you can develop!)
-  * [InstallRepos.sh][InstallRepos.sh]
-  * [RemoveRepos.sh][RemoveRepos.sh]
+  * [InstallRepos.sh](InstallRepos.sh)
+  * [RemoveRepos.sh](RemoveRepos.sh)
 
 #### Why
 
@@ -50,10 +50,10 @@ Solution here is nice and simple.
 
 Three layers: data, driver, callers.
 
-Root data are in [LibrariesList.txt][LibrariesList.txt].
+Root data are in [LibrariesList.txt](LibrariesList.txt).
 That's line list of core names.
 
-There is code for that data: [LibListTools.sh][LibListTools.sh].
+There is code for that data: [LibListTools.sh](LibListTools.sh).
 It can augment those data to library names (with `me_` prefix), to
 Github's repo name (`Embedded-` prefix), to gh's url, to git `clone`
 and to `arduino-cli install`. Plus deinstallation of course.
@@ -71,5 +71,5 @@ needed function.
 * [My other embedded C++ libraries][Embedded]
 * [My other repositories][Repos]
 
-[Embedded]: https://github.com/martin-eden/Embedded_Crafts/tree/master/Parts
+[Embedded]: https://github.com/martin-eden/Embedded_Crafts
 [Repos]: https://github.com/martin-eden/contents
