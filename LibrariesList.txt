@@ -2,6 +2,7 @@ BaseTypes
 Bits
 Console
 ConvertUnits_Angle
+FlashMemory
 Heap
 InstallStandardStreams
 List
