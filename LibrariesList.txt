@@ -20,3 +20,4 @@ Uart
 UartSpeeds
 UnoAddresses
 Ws2812b
+WorkMemory
