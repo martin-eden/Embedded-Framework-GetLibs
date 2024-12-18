@@ -3,7 +3,6 @@ BaseTypes
 Bits
 Console
 ConvertUnits_Angle
-FlashMemory
 Heap
 InstallStandardStreams
 List
@@ -11,6 +10,7 @@ ManagedMemory
 MemorySegment
 Menu
 ParseInteger
+ProgramMemory
 ReadInteger
 RgbStripe
 RgbStripeConsole
@@ -20,5 +20,5 @@ String
 Uart
 UartSpeeds
 UnoAddresses
-Ws2812b
 WorkMemory
+Ws2812b
