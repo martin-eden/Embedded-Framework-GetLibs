@@ -1,6 +1,7 @@
 Asciiz
 BaseTypes
 Bits
+CodecDecInt
 Console
 ConvertUnits_Angle
 Heap
@@ -16,7 +17,6 @@ RgbStripe
 RgbStripeConsole
 SerialTokenizer
 StoredCall
-String
 Uart
 UartSpeeds
 UnoAddresses
