@@ -15,6 +15,7 @@ ProgramMemory
 ReadInteger
 RgbStripe
 RgbStripeConsole
+SegmentProcessor
 SerialTokenizer
 StoredCall
 Uart
