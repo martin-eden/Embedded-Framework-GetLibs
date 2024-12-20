@@ -19,7 +19,6 @@ SegmentProcessor
 SerialTokenizer
 StoredCall
 Uart
-UartSpeeds
 UnoAddresses
 WorkMemory
 Ws2812b
