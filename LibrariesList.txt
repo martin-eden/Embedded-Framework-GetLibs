@@ -4,6 +4,7 @@ Bits
 CodecDecInt
 Console
 ConvertUnits_Angle
+Counters
 Heap
 InstallStandardStreams
 List
