@@ -16,6 +16,7 @@ ProgramMemory
 ReadInteger
 RgbStripe
 RgbStripeConsole
+RunTime
 SegmentProcessor
 SerialTokenizer
 StoredCall
