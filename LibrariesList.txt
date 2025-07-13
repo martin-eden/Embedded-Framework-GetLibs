@@ -5,6 +5,7 @@ CodecDecInt
 Console
 ConvertUnits_Angle
 Counters
+Eeprom
 Heap
 InstallStandardStreams
 List
