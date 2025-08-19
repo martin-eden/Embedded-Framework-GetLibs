@@ -1,6 +1,7 @@
 Asciiz
 BaseTypes
 Bits
+Bits_Workmem
 CodecDecInt
 Console
 ConvertUnits_Angle
