@@ -26,6 +26,5 @@ SerialTokenizer
 StoredCall
 Timestamp
 Uart
-UnoAddresses
 WorkMemory
 Ws2812b
