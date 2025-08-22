@@ -6,6 +6,7 @@ CodecDecInt
 Console
 ConvertUnits_Angle
 Counters
+Delays
 Eeprom
 Heap
 InstallStandardStreams
