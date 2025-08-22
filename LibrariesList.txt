@@ -9,7 +9,6 @@ Counters
 Delays
 Eeprom
 Heap
-InstallStandardStreams
 List
 ManagedMemory
 MemorySegment
