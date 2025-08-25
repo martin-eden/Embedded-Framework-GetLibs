@@ -23,6 +23,7 @@ RunTime
 SegmentProcessor
 SerialTokenizer
 StoredCall
+Streams
 Timestamp
 Uart
 WorkMemory
