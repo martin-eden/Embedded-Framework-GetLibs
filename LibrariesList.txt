@@ -13,7 +13,6 @@ Heap
 List
 ManagedMemory
 MemorySegment
-MemsegStreams
 Menu
 ParseInteger
 Pins
