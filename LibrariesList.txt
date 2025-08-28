@@ -24,7 +24,7 @@ RgbStripeConsole
 RunTime
 SerialTokenizer
 StoredCall
-Streams
+StreamTools
 Timestamp
 Uart
 WorkMemory
