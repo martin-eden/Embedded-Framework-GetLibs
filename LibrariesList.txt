@@ -22,6 +22,7 @@ RgbStripeConsole
 RunTime
 SerialTokenizer
 StoredCall
+StreamsCollection
 StreamTools
 Timestamp
 Uart
