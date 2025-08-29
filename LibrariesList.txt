@@ -1,6 +1,6 @@
 Asciiz
-BaseTypes
 BaseInterfaces
+BaseTypes
 Bits
 Bits_Workmem
 CodecDecInt
@@ -11,7 +11,6 @@ Delays
 Eeprom
 Heap
 List
-ManagedMemory
 MemorySegment
 Menu
 ParseInteger
@@ -27,4 +26,5 @@ StreamTools
 Timestamp
 Uart
 WorkMemory
+WorkmemTools
 Ws2812b
