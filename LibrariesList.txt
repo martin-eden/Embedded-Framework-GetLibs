@@ -1,3 +1,4 @@
+AddrsegTools
 BaseInterfaces
 BaseTypes
 Bits
@@ -10,7 +11,6 @@ Delays
 Eeprom
 Heap
 List
-MemorySegment
 Menu
 ParseInteger
 Pins
