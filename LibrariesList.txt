@@ -22,6 +22,7 @@ RunTime
 SerialTokenizer
 StoredCall
 StreamsCollection
+StreamTokenizer
 StreamTools
 Timestamp
 Uart
