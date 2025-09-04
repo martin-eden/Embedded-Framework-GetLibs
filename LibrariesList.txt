@@ -19,7 +19,6 @@ ReadInteger
 RgbStripe
 RgbStripeConsole
 RunTime
-SerialTokenizer
 StoredCall
 StreamsCollection
 StreamTokenizer
