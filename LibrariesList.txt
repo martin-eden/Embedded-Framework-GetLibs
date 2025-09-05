@@ -3,7 +3,6 @@ BaseInterfaces
 BaseTypes
 Bits
 Bits_Workmem
-CodecDecInt
 Console
 ConvertUnits_Angle
 Counters
@@ -27,4 +26,5 @@ Timestamp
 Uart
 WorkMemory
 WorkmemTools
+WriteInteger
 Ws2812b
