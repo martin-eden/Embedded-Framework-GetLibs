@@ -10,6 +10,7 @@ DebugPrints
 Delays
 DigitalSignalRecorder
 Eeprom
+FrequencyGenerator
 Heap
 List
 Menu
