@@ -6,6 +6,7 @@ Bits_Workmem
 Console
 ConvertUnits_Angle
 Counters
+DebugPrints
 Delays
 Eeprom
 Heap
