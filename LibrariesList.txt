@@ -8,6 +8,7 @@ ConvertUnits_Angle
 Counters
 DebugPrints
 Delays
+DigitalSignalRecorder
 Eeprom
 Heap
 List
