@@ -9,6 +9,7 @@ Counters
 DebugPrints
 Delays
 DigitalSignalRecorder
+Duration
 Eeprom
 FrequencyGenerator
 Heap
@@ -25,7 +26,6 @@ StoredCall
 StreamsCollection
 StreamTokenizer
 StreamTools
-Timestamp
 Uart
 WorkMemory
 WorkmemTools
