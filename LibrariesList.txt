@@ -11,6 +11,7 @@ Delays
 DigitalSignalRecorder
 Duration
 Eeprom
+FrequencyCalculator
 FrequencyGenerator
 Heap
 Interrupts
