@@ -3,6 +3,7 @@ BaseInterfaces
 BaseTypes
 Bits
 Bits_Workmem
+BooleansCodec
 Console
 ConvertUnits_Angle
 Counters
