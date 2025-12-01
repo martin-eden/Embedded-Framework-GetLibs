@@ -30,6 +30,7 @@ StoredCall
 StreamsCollection
 StreamTokenizer
 StreamTools
+TimerTools
 Uart
 WorkMemory
 WorkmemTools
