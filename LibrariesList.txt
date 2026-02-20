@@ -3,7 +3,6 @@ BaseInterfaces
 BaseTypes
 BaseTypesIo
 Bits
-Bits_Workmem
 BooleansCodec
 Console
 ConvertUnits_Angle
