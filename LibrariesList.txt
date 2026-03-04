@@ -14,9 +14,9 @@ Duration
 Eeprom
 FrequencyGenerator
 HardwareClockScaling
-Heap
 Interrupts
 List
+MemoryAllocator
 Menu
 ModulatedSignalPlayer
 Pins
