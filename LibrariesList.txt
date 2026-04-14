@@ -15,6 +15,7 @@ Eeprom
 FrequencyGenerator
 HardwareClockScaling
 I2C
+I2C_Console
 Interrupts
 List
 MemoryAllocator
